@@ -208,7 +208,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Node Server Tutorial](https://github.com/PreciseSlice/node-practice)
 * [Express Tutorial](https://github.com/PreciseSlice/express-intro) - What additional items did you work on? All four items under the Further Challenges section.
 * [Promise Practice Exercises](https://gist.github.com/PreciseSlice/b60364d2da6b6db3c2d7d6f13132a2b5)
-* [Palette Picker PWA]()
+* [Palette Picker PWA](https://sh-pwa-palette-picker.herokuapp.com/)
 * [Websockets Tutorial]() - What additional items did you work on?
 * [House of Vars Blog Post]()
 * [Pattern Party Repo]()
